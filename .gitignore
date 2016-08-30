@@ -5,6 +5,9 @@ lib_managed
 local.properties
 project/boot
 project/build/target
+project/.sbtboot/
+project/.boot/
+project/.ivy/
 target/
 test-out/
 !test-out/**/*.check
